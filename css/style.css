@@ -1632,7 +1632,7 @@ body.modal{
 	align-items: center;
 	justify-content: space-between;
 }
-.grax_tm_copyright .logo img{max-width: 100px;}
+.grax_tm_copyright .logo img{max-width: 100%;}
 .grax_tm_copyright .social ul{
 	margin: 0px;
 	list-style-type: none;
