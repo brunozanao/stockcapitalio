@@ -148,16 +148,16 @@
 .grax_tm_all_wrap[data-color="olive"] .progress_inner .background .bar_in{background: #666d41;}
 
 
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li.current a{color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li a:hover{color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_title_holder span{color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_button a{background-color: #66B95C;border-color:#66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .title a:hover{color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .date a:hover{color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #66B95C;}
-.grax_tm_all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #66B95C;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li.current a{color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_topbar .menu ul li a:hover{color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_title_holder span{color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_button a{background-color: #666d41;border-color:#666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .title a:hover{color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .grax_tm_news .news_list ul li .details .date a:hover{color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #666d41;}
+.grax_tm_all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #666d41;}
 
 
 .grax_tm_all_wrap[data-color="red"] .grax_tm_topbar .menu ul li.current a{color: #fe0000;}

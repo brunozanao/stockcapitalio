@@ -288,8 +288,8 @@ h6 { font-size: 16px; }
 	font-weight: 500;
 	transition: all .3s ease;
 }
-.grax_tm_topbar .menu ul li.current a{color: #66B95C;}
-.grax_tm_topbar .menu ul li a:hover{color: #66B95C;}
+.grax_tm_topbar .menu ul li.current a{color: #666d41;}
+.grax_tm_topbar .menu ul li a:hover{color: #666d41;}
 .grax_tm_topbar.animate .menu ul li a{color: #000;}
 
 /*---------------------------------------------------*/
@@ -749,8 +749,8 @@ hr{
 	text-decoration: none;
     color: #fff;
     display: inline-block;
-    background-color: #66B95C;
-	border: 2px solid #66B95C;
+    background-color: #666d41;
+	border: 2px solid #666d41;
     padding: 10px 40px;
     border-radius: 5px;
 	
@@ -820,7 +820,7 @@ hr{
 }
 .progress_inner .background .bar_in{
 	height:100%;
-	background:#66B95C;
+	background:#666d41;
 	width:0px;
 	overflow:hidden;
 	border-radius: 5px;
@@ -850,7 +850,7 @@ hr{
 	clear: both;
 	float: left;
 }
-.grax_tm_title_holder span{color: #66B95C;	}
+.grax_tm_title_holder span{color: #666d41;	}
 .grax_tm_title_holder h3{
 	text-transform: uppercase;
 	font-weight: 700;
@@ -1223,7 +1223,7 @@ hr{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.grax_tm_news .news_list ul li .details .title a:hover{color: #66B95C;}
+.grax_tm_news .news_list ul li .details .title a:hover{color: #666d41;}
 .grax_tm_news .news_list ul li .details .date{
 	text-transform: uppercase;
 	font-family: "Poppins";
@@ -1241,7 +1241,7 @@ hr{
 	     -o-transition: all .3s ease;
 	        transition: all .3s ease;
 }
-.grax_tm_news .news_list ul li .details .date a:hover{color: #66B95C;}
+.grax_tm_news .news_list ul li .details .date a:hover{color: #666d41;}
 .grax_tm_news .news_list ul li .details .date span{
 	position: relative;
 	margin-left: 11px;
@@ -1345,7 +1345,7 @@ body.modal{
 .grax_tm_modalbox_news .description blockquote{
 	font-style: italic;
 	color: #000;
-	border-left: 2px solid #66B95C;
+	border-left: 2px solid #666d41;
 	padding-left: 20px;
 	margin-bottom: 15px;
 }
@@ -1390,7 +1390,7 @@ body.modal{
     -o-transition: all .3s ease;
     transition: all .3s ease;
 }
-.grax_tm_modalbox_news .date a:hover{color: #66B95C;}
+.grax_tm_modalbox_news .date a:hover{color: #666d41;}
 .grax_tm_modalbox_news .date span{
 	position: relative;
     margin-left: 11px;
@@ -2241,7 +2241,7 @@ body.dark .grax_tm_settings .cursor li .svg,
 .grax_tm_intro_fixed_price .anim {text-decoration: none;
 	color: #fff;
     font-family: "Montserrat";
-    background-color: #66B95C;
+    background-color: #666d41;
     position: fixed;
     font-size: 22px;
     text-align: center;
