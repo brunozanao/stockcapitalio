@@ -658,8 +658,8 @@ hr{
 	clear: both;
 	float: left;
 	background-color: #fff;
-	margin-bottom: 150px;
-	padding-top: 150px;
+	margin-bottom: 0px;
+	padding-top: 0px;
 }
 .grax_tm_about .about_inner{
 	width: 100%;
