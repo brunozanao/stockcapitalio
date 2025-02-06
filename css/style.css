@@ -1039,7 +1039,7 @@ hr{
 	bottom: 0px;
 	left: 0px;
 	right: 0px;  
-    background-image: url(..//img/patterns/inspiration-geometry.png);
+    /* background-image: url(..//img/patterns/inspiration-geometry.png); */
     background-repeat: repeat;
     opacity: 1; /**  If you choose lighter pattern image as background please Decrease opacity  **/
     z-index: 2;
