@@ -1672,13 +1672,13 @@ body.modal{
 	left: 0px;
 	width: 100%;
 }
-/* .my_wave svg{
+.my_wave svg{
 	overflow: hidden;
 	vertical-align: middle;
   	height: 180px;
 	width: 100%;
 	fill: #fff;
-} */
+}
 
 /*---------------------------------------------------*/
 /*	11) GRAX CURSOR
