@@ -1068,6 +1068,7 @@ hr{
 .grax_tm_talk .text h3{
 	font-weight: 600;
 	color: #fff;
+	font-size: 22px !important;
 }
 .grax_tm_talk .text h3 span{position: relative;}
 .grax_tm_talk .text h3 span:before{
@@ -1103,6 +1104,7 @@ hr{
 }
 
 .grax_tm_talk .button a{
+	font-size: 20px;
 	color: #fff;
 	text-decoration: none;
 	font-family: "Poppins";
