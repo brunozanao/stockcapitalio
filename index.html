@@ -417,13 +417,15 @@
     },
     speed: 800,  // Ajuste a velocidade da transição
     breakpoints: {
+      // Para dispositivos móveis (menos de 768px)
       768: {
-        slidesPerView: 2, // Exibe 2 slides no mobile
-        spaceBetween: 5,  // Diminui o espaço entre os slides no mobile
+        slidesPerView: 2,  // Exibe 2 slides no mobile
+        spaceBetween: 10,  // Menor espaçamento no mobile
       },
+      // Para dispositivos de tela média e grandes (desktop)
       1024: {
-        slidesPerView: 5, // Exibe 5 slides no desktop
-        spaceBetween: 10, // Espaço entre os slides no desktop
+        slidesPerView: 5,  // Exibe 5 slides no desktop
+        spaceBetween: 10,  // Espaço entre os slides no desktop
       },
     },
   });

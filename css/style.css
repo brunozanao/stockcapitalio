@@ -137,7 +137,7 @@ img.svg{
 /* Media Query para telas pequenas (mobile) */
 @media (max-width: 768px) {
     .swiper-slide {
-        width: calc(100% / 2 - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
+        width: calc(50% - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
     }
 }
 
@@ -147,6 +147,7 @@ img.svg{
         width: calc(100% / 5 - 20px); /* Ajusta a largura dos slides para caber 5 logos no desktop */
     }
 }
+
 
 
 
