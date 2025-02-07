@@ -135,6 +135,13 @@ img.svg{
 }
 
 /* Media Query para telas pequenas (mobile) */
+@media (max-width: 480px) {
+    .swiper-slide {
+        width: calc(50% - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
+    }
+}
+
+/* Media Query para telas pequenas (mobile) */
 @media (max-width: 768px) {
     .swiper-slide {
         width: calc(50% - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
