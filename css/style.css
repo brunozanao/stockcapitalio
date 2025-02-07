@@ -134,26 +134,13 @@ img.svg{
     display: none;  /* Esconde a barra de rolagem */
 }
 
-/* Media Query para telas pequenas (mobile) */
-@media (max-width: 480px) {
-    .swiper-slide {
-        width: calc(50% - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
-    }
-}
-
-/* Media Query para telas pequenas (mobile) */
-@media (max-width: 768px) {
-    .swiper-slide {
-        width: calc(50% - 20px); /* Ajusta a largura dos slides para caber 2 logos no mobile */
-    }
-}
-
 /* Media Query para telas grandes (desktop) */
 @media (min-width: 769px) {
     .swiper-slide {
         width: calc(100% / 5 - 20px); /* Ajusta a largura dos slides para caber 5 logos no desktop */
     }
 }
+
 
 
 
