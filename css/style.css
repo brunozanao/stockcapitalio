@@ -71,6 +71,74 @@ img.svg{
    color: #6f6f6f;
 }
 
+/* Estilo geral do fundo */
+.mil-soft-bg {
+    background-color: #fff;
+    padding: 60px 0;
+}
+
+/* Alinhamento centralizado */
+.mil-center {
+    text-align: center;
+}
+
+/* Título */
+.mil-up {
+    text-transform: uppercase;
+}
+
+.mil-thin {
+    font-weight: 300;
+}
+
+.mil-mb-60 {
+    margin-bottom: 60px;
+}
+
+/* Estilos do container e do wrapper */
+.swiper-container {
+    display: flex;
+    overflow-x: auto;  /* Permite rolagem horizontal */
+    scroll-snap-type: x mandatory;  /* Configura o snap nos itens */
+    padding: 0 10px;
+    width: 100%; /* Certifica-se de que o contêiner ocupe toda a largura disponível */
+}
+
+.swiper-wrapper {
+    display: flex;
+    width: max-content; /* Permite que os slides se estendam horizontalmente */
+}
+
+.swiper-slide {
+    flex-shrink: 0;
+    width: 200px; /* Largura fixa para cada slide */
+    height: auto;
+    margin: 0 10px; /* Espaçamento entre os slides */
+    scroll-snap-align: start; /* Faz com que os slides alinhem ao rolar */
+    transition: transform 0.3s ease;
+}
+
+/* Estilos das imagens do parceiro */
+.mil-partner-frame {
+    display: block;
+    padding: 15px;
+}
+
+.mil-partner-frame img {
+    width: 100%;
+    height: auto;
+    max-width: 200px; /* Limitar o tamanho máximo da imagem */
+    display: block;
+    margin: 0 auto;
+}
+
+/* Para melhorar a aparência da rolagem no mobile */
+.swiper-container::-webkit-scrollbar {
+    display: none;  /* Esconde a barra de rolagem */
+}
+
+
+
 .container{
 	max-width: 1200px;
 	width:100%;
