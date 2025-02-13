@@ -2462,7 +2462,7 @@ body.dark .grax_tm_settings .cursor li .svg,
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 60px;
+    /* margin-bottom: 60px; */
 }
 
 .mil-partners-button {
