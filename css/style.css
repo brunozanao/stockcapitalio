@@ -2458,6 +2458,29 @@ body.dark .grax_tm_settings .cursor li .svg,
 }
 
 /* Partners Section Layout */
+.partners-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.mil-partners-button {
+    display: inline-block;
+    padding: 10px 20px;
+    /* background-color: #666d41; */
+    color: #000;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.mil-partners-button:hover {
+	color: #fff;
+    background-color: #666d41;
+}
+
 .partners-container {
     width: 100%;
     margin: 0 auto;
