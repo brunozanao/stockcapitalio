@@ -2456,3 +2456,48 @@ body.dark .grax_tm_settings .cursor li .svg,
 	.grax_tm_news .news_list ul{margin: 0px;}
 	.grax_tm_news .news_list ul li{width: 100%;padding-left: 0px;}
 }
+
+/* Partners Section Layout */
+.partners-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.partners-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.partners-row .mil-partner-frame {
+    flex: 0 1 calc(20% - 20px);
+    margin: 0 10px;
+}
+
+.partners-row .mil-partner-frame img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+    transition: transform 0.3s ease;
+}
+
+.partners-row .mil-partner-frame img:hover {
+    transform: scale(1.1);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .partners-row {
+        flex-wrap: wrap;
+    }
+    
+    .partners-row .mil-partner-frame {
+        flex: 0 1 calc(50% - 20px);
+        margin: 10px;
+    }
+}
