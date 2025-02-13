@@ -1110,6 +1110,7 @@ hr{
 	position: relative;
 }
 .grax_tm_talk:before{
+	background-color: #666d41;
 	position: absolute;
     content: "";
 	top: 0px;
