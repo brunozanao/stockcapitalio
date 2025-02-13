@@ -27,7 +27,7 @@ body.dark ::placeholder { /* Most modern browsers support this now. */
 }
 
 body.dark h3{
-	color: #fff;
+	color: #000;
 }
 body.dark .grax_tm_topbar .logo .dark{display: none;}
 body.dark .grax_tm_topbar .logo .light{display: block;}
