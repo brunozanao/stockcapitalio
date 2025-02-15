@@ -1760,6 +1760,31 @@ body.modal{
 	fill: #fff;
 }
 
+.grax_tm_about .about_inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px; /* Ajuste conforme necessário */
+    margin: 0 auto;
+    padding: 50px 0; /* Espaçamento superior e inferior */
+}
+
+.image_full {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.image_full img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px; /* Opcional, se quiser cantos arredondados */
+}
+
+
+
 /*---------------------------------------------------*/
 /*	11) GRAX CURSOR
 /*---------------------------------------------------*/
