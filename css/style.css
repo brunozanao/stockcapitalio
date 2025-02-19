@@ -2475,7 +2475,7 @@ body.dark .grax_tm_settings .cursor li .svg,
 	.grax_tm_intro_content .demo_list ul li{width: 100%;padding-left: 0px;}
 }
 @media (max-width: 480px) {
-	.grax_tm_hero .name{font-size: 30px;}
+	.grax_tm_hero .name{font-size: 28px;}
 	.grax_tm_hero .job{font-size: 15px;}
 	.grax_tm_portfolio ul{margin: 0px;}
 	.grax_tm_portfolio ul li{width: 100%;padding-left: 0px;}
