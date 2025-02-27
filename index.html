@@ -199,13 +199,32 @@
         <div class="container">
             <div class="about_inner">
                 <div class="image_full">
-                    <img src="img/about/background_about.svg" alt="About Image">
-                </div>
+					<img src="img/about/background_about.svg" alt="About Image" class="desktop-image">
+					<img src="img/about/background_about_mobile.svg" alt="About Mobile Image" class="mobile-image">
+				</div>
             </div>
         </div>
     </div>
 </div>
 <!-- /ABOUT -->
+ 
+<style>
+	/* Default state: hide mobile image */
+.mobile-image {
+    display: none;
+}
+
+/* Mobile view (screens 767px and smaller) */
+@media (max-width: 767px) {
+    .desktop-image {
+        display: none;
+    }
+    .mobile-image {
+        display: block;
+        width: 100%;
+    }
+}
+</style>
 
 	<!-- CLIMATE -->
 	<div class="grax_tm_section" id="whitepaper">
